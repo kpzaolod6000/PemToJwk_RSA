@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Imagen de muestra
 
-<img src="/visorrsa.jpg" alt="img" title="visorrsa">
+<img src="/visorrsa.png" alt="img" title="visorrsa">
