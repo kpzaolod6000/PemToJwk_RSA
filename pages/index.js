@@ -117,7 +117,7 @@ export default function Home() {
                   const element = (
                     <div>
                       <h3>Campos del archivo {file_.name} </h3>
-                      <table>
+                      <table className={styles.table_bordered}>
                         <tr>
                           <th>Clave</th>
                           <th>Contenido</th>

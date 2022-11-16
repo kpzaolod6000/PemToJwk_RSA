@@ -189,3 +189,18 @@
     filter: invert(1);
   }
 }
+
+
+.table_bordered {
+  border: 1px solid #ddd !important;
+}
+
+.table_caption {
+	padding: .5em 0;
+}
+
+@media screen and (max-width: 767px) {
+  .table_caption {
+    display: none;
+  }
+}
